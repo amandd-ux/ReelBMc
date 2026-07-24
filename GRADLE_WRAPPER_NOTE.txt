@@ -1,0 +1,3 @@
+Wrapper configuration added.
+This project is prepared for GitHub Actions.
+The wrapper scripts delegate to Gradle available on PATH.

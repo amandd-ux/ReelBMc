@@ -1,0 +1,6 @@
+{
+  "name": "Reel Local",
+  "description": "Offline local video reels player with personalized recommendations and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
